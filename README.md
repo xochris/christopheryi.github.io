@@ -1,2 +1,2 @@
 # christopheryi.github.io
-Basic Personal Portfolio
+github project description (this will just be a repository for my Github Pages)
